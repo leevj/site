@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /css/
+Disallow: /fontes/
+Disallow: /js/
+Disallow: /php/
+
+Sitemap: http://www.jsrsistemas.com.br/sitemap.xml
